@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+body{
+      font-family: 'Inter', sans-serif;
+}
+
+
+:root{
+    --color-neutral-black: #263238;
+    --Primary: #FFFFFF;
+    --Primary1: #363738;
+    --Secondary: #F5F5F5;
+    --Secondary1: #FEFAF1;
+    --Text: #FAFAFA;
+    --Text1: #7D8184;
+    --Text2: #000000;
+    --Secondary2: #DB4444;
+    --Button: #00FF66;
+    --Hover-Button: #E07575;
+    --Hover-Button1: #A0BCE0;
+} 
